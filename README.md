@@ -1,7 +1,7 @@
 # hello-world
 
 Come and listen to a story 'bout a man named Jed
-Poor mountaineer barely kept his family fed
+Pour mountaineer barely kept his family fed
 Then one day he was shooting for some food,
 And up through the ground come a bubbling crude
 (Oil that is, black gold, Texas tea)

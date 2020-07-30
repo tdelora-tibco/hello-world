@@ -18,6 +18,8 @@ jobs:
     - name: make
       # run: make hello_world.c
       run: gcc -o hello hello_world.c
+    - name: run hello output
+      run: ./hello
     # - name: make check
     #  run: make check
     # - name: make distcheck
